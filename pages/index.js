@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main style={{ maxWidth: 400 }}>
+      <main style={{ maxWidth: '800px' }}>
         <Header title="Beware of satanic music" />
       <p>A lot of music has satanic lyrics that will put you in a demonic state. This is not to be laughed at. It endangers your soul and mind.</p>
       <p>For example, look at the lyrics of The Beatles 'Strawbeery Fields Forever': "Nothing is real, it doesn't matter much to me, living is easy with eyes closed, take me down to that endless red place la la la." This is nihilism: it says, "hell isn't so bad, come try it out!" It's pure evil.</p>
